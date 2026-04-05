@@ -12,7 +12,7 @@ A booking platform for creative spaces and sessions with guest exploration, rese
 **Highlights:** booking flow, payment integration, user states, product structure  
 **Stack:** React, TypeScript, backend integration, Stripe  
 **Live:** https://foundry-studios.lovable.app  
-**Repo:** `<FOUNDRY-STUDIOS-REPO-LINK>`
+**Repo:** https://github.com/lazarbukejlovic-dotcom/foundry-studios
 
 ---
 
@@ -22,7 +22,7 @@ A client operations platform built for freelancers, consultants, and small agenc
 **Highlights:** client management, invoice states, project tracking, full-stack workflow logic  
 **Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma  
 **Live:** https://useclientflow.lovable.app  
-**Repo:** `<CLIENTFLOW-REPO-LINK>`
+**Repo:** https://github.com/lazarbukejlovic-dotcom/clientflow
 
 ---
 
@@ -32,7 +32,7 @@ A workflow execution platform focused on clarity: blockers, priorities, progress
 **Highlights:** workflow structure, task flow, execution dashboards, product UX  
 **Stack:** React, TypeScript, dashboard architecture, workflow-based UI  
 **Live:** https://roompulse.lovable.app  
-**Repo:** `<ROOMPULSE-REPO-LINK>`
+**Repo:** https://github.com/lazarbukejlovic-dotcom/roompulse
 
 ## Core Stack
 
@@ -62,6 +62,6 @@ I’m focused on web development roles where product thinking, UI quality, and b
 
 ## Contact
 
-- **Email:** `<YOUR_EMAIL>`
+- **Email:** lazarbukejlovic@icloud.com
 - **LinkedIn:** `<YOUR_LINKEDIN_URL>`
-- **GitHub:** https://github.com/<YOUR_GITHUB_USERNAME>
+- **GitHub:** https://github.com/lazarbukejlovic-dotcom
