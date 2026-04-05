@@ -1,17 +1,15 @@
-# Hi, I'am Lazar Bukejlovic
+# Lazar Bukejlovic
 
-Web developer focused on building product-style web apps that feel usable, structured, and real.
+Full-stack web developer focused on building product-style applications that feel finished, usable, and technically grounded.
 
-I’m most interested in work that sits between frontend polish and practical backend logic — client operations, workflow execution, booking flows, billing, and dashboards that solve an actual problem instead of just looking finished.
+My work is centered around real workflows — booking, billing, client operations, task execution, dashboards, and internal product systems. I’m most interested in projects where both the interface and the underlying logic matter: authentication, data flow, database structure, API behavior, and clean user experience working together as one product.
 
-Currently working with **React, TypeScript, Node.js, Express, PostgreSQL, and Prisma**.
-
-## Featured Projects
+## Selected Projects
 
 ### Foundry Studios
-A booking platform for creative spaces and sessions with a full reservation flow, Stripe sandbox payments, guest exploration, and a product-first UX that feels closer to a real service than a portfolio demo.
+A booking platform for creative spaces and sessions with guest exploration, reservation flow, account states, and Stripe sandbox payments.
 
-**Focus:** booking flow, payments, account states, product structure  
+**Highlights:** booking flow, payment integration, user states, product structure  
 **Stack:** React, TypeScript, backend integration, Stripe  
 **Live:** https://foundry-studios.lovable.app  
 **Repo:** `<FOUNDRY-STUDIOS-REPO-LINK>`
@@ -19,9 +17,9 @@ A booking platform for creative spaces and sessions with a full reservation flow
 ---
 
 ### ClientFlow
-A client operations platform for freelancers, consultants, and small agencies. Built around client delivery, invoicing, follow-up, and project visibility — with a stronger operations feel than a typical CRUD admin panel.
+A client operations platform built for freelancers, consultants, and small agencies. It brings together client records, project delivery, invoice tracking, and operational visibility in one workspace.
 
-**Focus:** client records, project tracking, invoice states, operational depth  
+**Highlights:** client management, invoice states, project tracking, full-stack workflow logic  
 **Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma  
 **Live:** https://useclientflow.lovable.app  
 **Repo:** `<CLIENTFLOW-REPO-LINK>`
@@ -29,22 +27,14 @@ A client operations platform for freelancers, consultants, and small agencies. B
 ---
 
 ### RoomPulse
-A workflow execution app built around visibility: blockers, progress, overdue work, and team ownership. Designed to feel faster, cleaner, and more focused than a generic task dashboard.
+A workflow execution platform focused on clarity: blockers, priorities, progress, and delivery visibility across active work.
 
-**Focus:** workflow clarity, execution tracking, internal product UX  
-**Stack:** React, TypeScript, product-style dashboard architecture  
+**Highlights:** workflow structure, task flow, execution dashboards, product UX  
+**Stack:** React, TypeScript, dashboard architecture, workflow-based UI  
 **Live:** https://roompulse.lovable.app  
 **Repo:** `<ROOMPULSE-REPO-LINK>`
 
-## What I try to build
-
-- Interfaces that feel intentional, not templated
-- Products with real workflow logic behind the UI
-- Clean structure in both UX and code
-- Projects that are usable on mobile, not just desktop screenshots
-- Portfolio work that holds up under actual review
-
-## Stack
+## Core Stack
 
 **Frontend**  
 React, TypeScript, JavaScript, HTML, CSS
@@ -56,12 +46,22 @@ Node.js, Express, REST APIs
 PostgreSQL, Prisma
 
 **Other**  
-Stripe, GitHub, responsive product UI, dashboard design
+Stripe, Git, GitHub, responsive product UI, dashboard design
 
-## Current direction
+## What I care about
 
-I’m focused on frontend and full-stack web development, especially product-oriented apps where UI quality and backend logic both matter.
+- Products that solve a workflow, not just show components
+- Clean frontend backed by real application logic
+- Usable dashboards, structured CRUD flows, and believable product states
+- Mobile-aware interfaces that still feel strong on desktop
+- Code that stays readable, intentional, and maintainable
+
+## Current Focus
+
+I’m focused on web development roles where product thinking, UI quality, and backend logic all matter — especially full-stack product work and modern frontend roles with strong application depth.
 
 ## Contact
 
-Open to frontend and full-stack opportunities.
+- **Email:** `<YOUR_EMAIL>`
+- **LinkedIn:** `<YOUR_LINKEDIN_URL>`
+- **GitHub:** https://github.com/<YOUR_GITHUB_USERNAME>
