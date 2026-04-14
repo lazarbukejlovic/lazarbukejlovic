@@ -57,7 +57,7 @@ Workflow execution platform focused on task visibility, progress tracking, struc
 - Real-Time Interaction
 - Full-Stack Product Delivery
 
-## Contact
+## Links
 
 - **Email:** [lazarbukejlovic@icloud.com](mailto:lazarbukejlovic@icloud.com)
 - **LinkedIn:** [linkedin.com/in/lazar-bukejlovic](https://www.linkedin.com/in/lazar-bukejlovic)
