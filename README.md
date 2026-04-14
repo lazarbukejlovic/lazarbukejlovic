@@ -1,8 +1,10 @@
 # About
 
-**Full-Stack Engineer** working at the intersection of product systems, interface quality, and backend delivery.
+I build full-stack product applications where strong frontend execution, strong backend architecture, and delivery reliability matter.
 
-My work is centered around building applications that feel structured, usable, and production-minded — with equal attention to frontend clarity, backend strength, and real-world flow.
+My background spans product development at TokenFlow and a period of leading project delivery for private clients in finance-oriented and digital asset-related environments. Across that work, I have shipped and supported serious product projects involving dashboards, workflow systems, business operations, booking flows, payments, subscriptions, and backend-connected user experiences.
+
+Known for product-minded execution, strong UI-to-backend thinking, and reliable delivery in remote, ownership-driven environments.
 
 ## Experience
 
