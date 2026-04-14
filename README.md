@@ -1,67 +1,62 @@
 # Lazar Bukejlovic
 
-Full-stack Engineer focused on building product-style applications that feel finished, usable, and technically grounded.
+**Full-Stack Engineer** focused on building modern product applications with strong frontend execution and practical backend architecture.
 
-My work is centered around real workflows — booking, billing, client operations, task execution, dashboards, and internal product systems. I’m most interested in projects where both the interface and the underlying logic matter: authentication, data flow, database structure, API behavior, and clean user experience working together as one product.
+My experience includes product development at **TokenFlow** and direct delivery for **private clients** in finance-oriented and digital asset-related environments. I work best in ownership-driven settings where clean implementation, usability, communication, and full application flow all matter.
 
-## Selected Projects
+## Experience
 
-### Foundry Studios
-A booking platform for creative spaces and sessions with guest exploration, reservation flow, account states, and Stripe sandbox payments.
+### TokenFlow — Full-Stack Engineer  
+**February 2025 – Present**
 
-**Highlights:** booking flow, payment integration, user states, product structure  
-**Stack:** React, TypeScript, backend integration, Stripe  
-**Live:** https://foundry-studios.lovable.app  
-**Repo:** https://github.com/lazarbukejlovic-dotcom/foundry-studios
+Working across multiple project streams in a client-facing development environment, balancing parallel priorities while delivering clean, usable product work. Building and maintaining modern interfaces and backend-connected flows with strong attention to structure, usability, and execution quality. Gained practical experience in client communication, project coordination, and managing multiple delivery tracks at once, with a strong preference toward UI/UX-oriented product work inside broader full-stack delivery.
 
----
+### Private Clients — Freelance Full-Stack Engineer  
+**December 2023 – February 2025**
 
-### ClientFlow
-A client operations platform built for freelancers, consultants, and small agencies. It brings together client records, project delivery, invoice tracking, and operational visibility in one workspace.
+Delivered custom applications for private clients in finance-oriented and digital asset-related environments. Built dashboard-based systems for internal fund tracking, business entry workflows, operational visibility, and payment/subscription handling. Replaced manual spreadsheet-based processes with structured software workflows used internally on a daily basis. This period accelerated the practical application of engineering skills and contributed directly to building a portfolio of shipped product projects.
 
-**Highlights:** client management, invoice states, project tracking, full-stack workflow logic  
-**Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma  
-**Live:** https://useclientflow.lovable.app  
-**Repo:** https://github.com/lazarbukejlovic-dotcom/clientflow
+## Selected Work
 
----
+### [Lazar Digital Foundation](https://github.com/lazarbukejlovic/lazar-digital-foundation)
+Premium personal engineering website with integrated resume view, booking flow, and selected project showcase.  
+**Live Demo:** [lazar-builds-it.lovable.app](https://lazar-builds-it.lovable.app)
 
-### RoomPulse
-A workflow execution platform focused on clarity: blockers, priorities, progress, and delivery visibility across active work.
+### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
+Social communication app where posts become conversations through feed interaction, profiles, direct messaging, discovery, and live discussion rooms.  
+**Live Demo:** [echoroomlive.lovable.app](https://echoroomlive.lovable.app)
 
-**Highlights:** workflow structure, task flow, execution dashboards, product UX  
-**Stack:** React, TypeScript, dashboard architecture, workflow-based UI  
-**Live:** https://roompulse.lovable.app  
-**Repo:** https://github.com/lazarbukejlovic-dotcom/roompulse
+### [Foundry Studios](https://github.com/lazarbukejlovic/foundry-studios)
+Booking and payments product centered on service flows, scheduling logic, and polished user-facing structure.  
+**Live Demo:** [foundry-studios.lovable.app](https://foundry-studios.lovable.app)
 
-## Core Stack
+### [ClientFlow](https://github.com/lazarbukejlovic/clientflow)
+Business operations platform for client management, project workflows, invoicing, and dashboard visibility.  
+**Live Demo:** [useclientflow.lovable.app](https://useclientflow.lovable.app)
 
-**Frontend**  
-React, TypeScript, JavaScript, HTML, CSS
+### [RoomPulse](https://github.com/lazarbukejlovic/roompulse)
+Workflow execution platform focused on task visibility, progress tracking, structured operations, and responsive product UX.  
+**Live Demo:** [roompulse.lovable.app](https://roompulse.lovable.app)
 
-**Backend**  
-Node.js, Express, REST APIs
+## Technical Focus
 
-**Database**  
-PostgreSQL, Prisma
-
-**Other**  
-Stripe, Git, GitHub, responsive product UI, dashboard design
-
-## What I care about
-
-- Products that solve a workflow, not just show components
-- Clean frontend backed by real application logic
-- Usable dashboards, structured CRUD flows, and believable product states
-- Mobile-aware interfaces that still feel strong on desktop
-- Code that stays readable, intentional, and maintainable
-
-## Current Focus
-
-I’m focused on web development roles where product thinking, UI quality, and backend logic all matter — especially full-stack product work and modern frontend roles with strong application depth.
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Supabase
+- Tailwind CSS
+- Stripe
+- Product Systems
+- UI / UX Thinking
+- Real-Time Interaction
+- Full-Stack Product Delivery
 
 ## Contact
 
-- **Email:** lazarbukejlovic@icloud.com
-- **LinkedIn:** www.linkedin.com/in/lazar-bukejlovic
-- **GitHub:** https://github.com/lazarbukejlovic-dotcom
+- **Email:** [lazarbukejlovic@icloud.com](mailto:lazarbukejlovic@icloud.com)
+- **LinkedIn:** [linkedin.com/in/lazar-bukejlovic](https://www.linkedin.com/in/lazar-bukejlovic)
+- **GitHub:** [github.com/lazarbukejlovic](https://github.com/lazarbukejlovic)
