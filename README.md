@@ -61,4 +61,4 @@ Workflow execution platform focused on task visibility, progress tracking, struc
 
 - **Email:** [lazarbukejlovic@icloud.com](mailto:lazarbukejlovic@icloud.com)
 - **LinkedIn:** [linkedin.com/in/lazar-bukejlovic](https://www.linkedin.com/in/lazar-bukejlovic)
-- **GitHub:** [github.com/lazarbukejlovic](https://github.com/lazarbukejlovic)
+
