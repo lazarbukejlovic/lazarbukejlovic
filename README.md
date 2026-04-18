@@ -22,7 +22,7 @@ Delivered custom applications for private clients in finance-oriented and digita
 
 ### [Lazar's Personal Website](https://github.com/lazarbukejlovic/lazar-personal-website)
 Premium personal engineering website with integrated resume view, booking flow, and selected project showcase.  
-**Live Demo:** [lazar-personalwebsite.lovable.app](https://lazar-personalwebsite.lovable.app)
+## [Live Demo](https://lazar-personalwebsite.lovable.app)
 
 ### [ForgeDesk](https://github.com/lazarbukejlovic/Forge-Your-Space)
 A premium full-stack ecommerce product for workspace goods with Stripe checkout, account flows, saved setups, order management, and a role-protected admin dashboard.  
@@ -30,19 +30,19 @@ A premium full-stack ecommerce product for workspace goods with Stripe checkout,
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
 Social communication app where posts become conversations through feed interaction, profiles, direct messaging, discovery, and live discussion rooms.  
-**Live Demo:** [echoroomlive.lovable.app](https://echoroomlive.lovable.app)
+## [Live Demo](https://echoroomlive.lovable.app)
 
 ### [Foundry Studios](https://github.com/lazarbukejlovic/foundry-studios)
 Booking and payments product centered on service flows, scheduling logic, and polished user-facing structure.  
-**Live Demo:** [foundry-studios.lovable.app](https://foundry-studios.lovable.app)
+## [Live Demo](https://foundry-studios.lovable.app)
 
 ### [ClientFlow](https://github.com/lazarbukejlovic/clientflow)
 Business operations platform for client management, project workflows, invoicing, and dashboard visibility.  
-**Live Demo:** [useclientflow.lovable.app](https://useclientflow.lovable.app)
+## [Live Demo](https://useclientflow.lovable.app)
 
 ### [RoomPulse](https://github.com/lazarbukejlovic/roompulse)
 Workflow execution platform focused on task visibility, progress tracking, structured operations, and responsive product UX.  
-**Live Demo:** [roompulse.lovable.app](https://roompulse.lovable.app)
+## [Live Demo](https://roompulse.lovable.app)
 
 ## Technical Focus
 
