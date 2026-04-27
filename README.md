@@ -1,47 +1,51 @@
 # About
 
-I build full-stack product applications where strong frontend execution, strong backend architecture, and delivery reliability matter.
+I build full-stack product systems where frontend execution, backend architecture, and delivery reliability matter.
 
-My background spans product development at TokenFlow and a period of leading project delivery for private clients in finance-oriented and digital asset-related environments. Across that work, I have shipped and supported serious product projects involving dashboards, workflow systems, business operations, booking flows, payments, subscriptions, and backend-connected user experiences.
+My background spans product development at TokenFlow and direct delivery for private clients across finance-oriented and digital asset-related environments. I have shipped and supported product systems involving dashboards, structured workflow software, booking flows, payments, subscriptions, and backend-connected user experiences.
 
-Known for product-minded execution, strong UI-to-backend thinking, and reliable delivery in remote, ownership-driven environments.
+Known for ownership-driven execution, product thinking, and delivering structured software systems where usability, implementation quality, and operational reliability matter.
 
 ## Experience
 
-### TokenFlow — Full-Stack Engineer  
+### TokenFlow — Full-Stack Engineer
 **February 2025 – Present**
 
-Working across multiple project streams in a client-facing development environment, balancing parallel priorities while delivering clean, usable product work. Building and maintaining modern interfaces and backend-connected flows with strong attention to structure, usability, and execution quality. Gained practical experience in client communication, project coordination, and managing multiple delivery tracks at once, with a strong preference toward UI/UX-oriented product work inside broader full-stack delivery.
+Orchestrated delivery across multiple client-facing product streams, balancing parallel priorities while strengthening implementation quality and maintainability. Architected and improved backend-connected product flows with emphasis on usability, structured execution, and scalable delivery. Partnered across product implementation, client communication, and coordinated delivery in a high-ownership environment.
 
-### Private Clients — Freelance Full-Stack Engineer  
+### Private Clients — Freelance Full-Stack Engineer
 **December 2023 – February 2025**
 
-Delivered custom applications for private clients in finance-oriented and digital asset-related environments. Built dashboard-based systems for internal fund tracking, business entry workflows, operational visibility, and payment/subscription handling. Replaced manual spreadsheet-based processes with structured software workflows used internally on a daily basis. This period accelerated the practical application of engineering skills and contributed directly to building a portfolio of shipped product projects.
+Delivered custom product applications for private clients in finance-oriented and digital asset-related environments. Reengineered operational workflows from manual spreadsheet processes into structured software systems adopted for daily internal use. Led collaborative product builds across cross-functional contributors, coordinating feature direction, implementation priorities, and delivery as a hands-on full-stack engineer. Spearheaded delivery across 10+ production-grade product initiatives, strengthening engineering depth across architecture and execution quality.
 
 ## Selected Work
 
 ### [Lazar's Personal Website](https://github.com/lazarbukejlovic/lazar-personal-website)
-Premium personal engineering website with integrated resume view, booking flow, and selected project showcase.  
+Architected premium engineering profile site integrating resume delivery, booking flow, and curated product showcase.
 ## [Live Demo](https://lazar-personalwebsite.lovable.app)
 
+### [DevPath Hub](https://github.com/lazarbukejlovic/devpath-hub)
+Led collaborative full-stack product build for developer growth workflows, creator tooling, and structured educational delivery.
+## [Live Demo](https://devpath-hub.vercel.app/)
+
 ### [ForgeDesk](https://github.com/lazarbukejlovic/Forge-Your-Space)
-A premium full-stack ecommerce product for workspace goods with Stripe checkout, account flows, saved setups, order management, and a role-protected admin dashboard.  
+Delivered premium ecommerce product with Stripe flows, protected admin systems, and structured product architecture.
 ## [Live Demo](https://forge-your-desk.lovable.app)  
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
-Social communication app where posts become conversations through feed interaction, profiles, direct messaging, discovery, and live discussion rooms.  
+Designed social communication product with feed interaction, messaging workflows, and real-time discussion systems.
 ## [Live Demo](https://echoroomlive.lovable.app)
 
 ### [Foundry Studios](https://github.com/lazarbukejlovic/foundry-studios)
-Booking and payments product centered on service flows, scheduling logic, and polished user-facing structure.  
+Built booking and payments product centered on scheduling logic, transaction flows, and polished service workflows. 
 ## [Live Demo](https://foundry-studios.lovable.app)
 
 ### [ClientFlow](https://github.com/lazarbukejlovic/clientflow)
-Business operations platform for client management, project workflows, invoicing, and dashboard visibility.  
+Built dashboard-driven business operations platform for structured client workflows, invoicing systems, and operational visibility.  
 ## [Live Demo](https://useclientflow.lovable.app)
 
 ### [RoomPulse](https://github.com/lazarbukejlovic/roompulse)
-Workflow execution platform focused on task visibility, progress tracking, structured operations, and responsive product UX.  
+Developed workflow execution platform focused on task visibility, structured operations, and responsive product UX.
 ## [Live Demo](https://roompulse.lovable.app)
 
 ## Technical Focus
