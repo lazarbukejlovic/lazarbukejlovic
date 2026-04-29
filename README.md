@@ -30,7 +30,7 @@ Led collaborative full-stack product build for developer growth workflows, creat
 
 ### [ForgeDesk](https://github.com/lazarbukejlovic/forgedesk)
 Delivered premium ecommerce product with Stripe flows, protected admin systems, and structured product architecture.
-## [Live Demo](forgedesk-eosin.vercel.app)  
+## [Live Demo](https://forgedesk-eosin.vercel.app/)  
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
 Designed social communication product with feed interaction, messaging workflows, and real-time discussion systems.
