@@ -40,9 +40,9 @@ Designed social communication product with feed interaction, messaging workflows
 Built booking and payments product centered on scheduling logic, transaction flows, and polished service workflows. 
 ## [Live Demo](https://foundrystudios.vercel.app/)
 
-### [ClientFlow](https://github.com/lazarbukejlovic/clientflow)
+### [ClientFlow](https://github.com/lazarbukejlovic/client-flow)
 Built dashboard-driven business operations platform for structured client workflows, invoicing systems, and operational visibility.  
-## [Live Demo](https://useclientflow.lovable.app)
+## [Live Demo](https://client-flow-tawny-eight.vercel.app/)
 
 ### [RoomPulse](https://github.com/lazarbukejlovic/roompulse)
 Developed workflow execution platform focused on task visibility, structured operations, and responsive product UX.
