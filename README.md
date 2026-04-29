@@ -28,9 +28,9 @@ Architected premium engineering profile site integrating resume delivery, bookin
 Led collaborative full-stack product build for developer growth workflows, creator tooling, and structured educational delivery.
 ## [Live Demo](https://devpath-hub.vercel.app/)
 
-### [ForgeDesk](https://github.com/lazarbukejlovic/Forge-Your-Space)
+### [ForgeDesk](https://github.com/lazarbukejlovic/forgedesk)
 Delivered premium ecommerce product with Stripe flows, protected admin systems, and structured product architecture.
-## [Live Demo](https://forge-your-desk.lovable.app)  
+## [Live Demo](forgedesk-eosin.vercel.app)  
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
 Designed social communication product with feed interaction, messaging workflows, and real-time discussion systems.
