@@ -32,9 +32,9 @@ Led collaborative full-stack product build for developer growth workflows, creat
 Delivered premium ecommerce product with Stripe flows, protected admin systems, and structured product architecture.
 ## [Live Demo](https://forgedesk-eosin.vercel.app/)  
 
-### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
+### [EchoRoom](https://github.com/lazarbukejlovic/echo-room)
 Designed social communication product with feed interaction, messaging workflows, and real-time discussion systems.
-## [Live Demo](https://echoroomlive.lovable.app)
+## [Live Demo](https://echo-room-teal.vercel.app/)
 
 ### [Foundry Studios](https://github.com/lazarbukejlovic/foundry-studios)
 Built booking and payments product centered on scheduling logic, transaction flows, and polished service workflows. 
