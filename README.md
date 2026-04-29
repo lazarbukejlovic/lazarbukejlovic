@@ -44,9 +44,9 @@ Built booking and payments product centered on scheduling logic, transaction flo
 Built dashboard-driven business operations platform for structured client workflows, invoicing systems, and operational visibility.  
 ## [Live Demo](https://client-flow-tawny-eight.vercel.app/)
 
-### [RoomPulse](https://github.com/lazarbukejlovic/roompulse)
+### [RoomPulse](https://github.com/lazarbukejlovic/room-pulse)
 Developed workflow execution platform focused on task visibility, structured operations, and responsive product UX.
-## [Live Demo](https://roompulse.lovable.app)
+## [Live Demo](https://room-pulse-seven.vercel.app/)
 
 ## Technical Focus
 
