@@ -69,5 +69,5 @@ Developed workflow execution platform focused on task visibility, structured ope
 
 - ## [Email](mailto:lazarbukejlovic@icloud.com)
 - ## [LinkedIn](https://www.linkedin.com/in/lazar-bukejlovic)
-- ## [Website](https://lazar-personalwebsite.lovable.app/)
+- ## [Website](https://personal-website-tau-sandy.vercel.app/)
 
