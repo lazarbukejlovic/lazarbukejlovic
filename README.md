@@ -20,9 +20,9 @@ Delivered custom product applications for private clients in finance-oriented an
 
 ## Selected Work
 
-### [Lazar's Personal Website](https://github.com/lazarbukejlovic/lazar-personal-website)
+### [ Personal Website](https://github.com/lazarbukejlovic/personal-website)
 Architected premium engineering profile site integrating resume delivery, booking flow, and curated product showcase.
-## [Live Demo](https://lazar-personalwebsite.lovable.app)
+## [Live Demo](https://personal-website-tau-sandy.vercel.app/)
 
 ### [DevPath Hub](https://github.com/lazarbukejlovic/devpath-hub)
 Led collaborative full-stack product build for developer growth workflows, creator tooling, and structured educational delivery.
