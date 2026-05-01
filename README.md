@@ -24,6 +24,12 @@ Delivered custom product applications for private clients in finance-oriented an
 Architected premium engineering profile site integrating resume delivery, booking flow, and curated product showcase.
 ## [Live Demo](https://personal-website-tau-sandy.vercel.app/)
 
+## [GeoRisk](https://github.com/lazarbukejlovic/georisk-platform)
+A commercial-grade geopolitical intelligence platform for monitoring global conflicts, market exposure, historical context, and simulated humanitarian relief tracking.
+
+GeoRisk combines a cinematic global risk map, conflict severity indicators, market impact terminal, situation feed, historical archive, reports, settings, and a simulated relief tracker into one product-style interface. The project is built with mocked but API-ready data structures, designed to show how geopolitical risk can be connected with energy markets, currencies, crypto, and humanitarian impact.
+## [Live Demo](https://georisk-platform.vercel.app/)
+
 ### [DevPath Hub](https://github.com/lazarbukejlovic/devpath-hub)
 Led collaborative full-stack product build for developer growth workflows, creator tooling, and structured educational delivery.
 ## [Live Demo](https://devpath-hub.vercel.app/)
