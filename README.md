@@ -8,15 +8,19 @@ Known for ownership-driven execution, product thinking, and delivering structure
 
 ## Experience
 
-### TokenFlow — Full-Stack Engineer
+### TokenFlow — Full-Stack Engineer  
 **February 2025 – Present**
 
-Orchestrated delivery across multiple client-facing product streams, balancing parallel priorities while strengthening implementation quality and maintainability. Architected and improved backend-connected product flows with emphasis on usability, structured execution, and scalable delivery. Partnered across product implementation, client communication, and coordinated delivery in a high-ownership environment.
+At TokenFlow, I develop and improve client-facing product applications with a focus on reliable, maintainable, backend-connected web experiences. My work spans React, TypeScript, Node.js, REST APIs, dashboard interfaces, authenticated user flows, responsive layouts, and production-focused UI behavior.
 
-### Private Clients — Freelance Full-Stack Engineer
+I contribute across the full implementation cycle: defining product and client requirements, structuring technical tasks, implementing frontend flows, connecting UI behavior to backend logic, validating user journeys, debugging issues, and preparing features for delivery. The work is fast-moving and ownership-driven, with an emphasis on clean execution, maintainability, and practical product value.
+
+### Private Clients — Freelance Full-Stack Engineer  
 **December 2023 – February 2025**
 
-Delivered custom product applications for private clients in finance-oriented and digital asset-related environments. Reengineered operational workflows from manual spreadsheet processes into structured software systems adopted for daily internal use. Led collaborative product builds across cross-functional contributors, coordinating feature direction, implementation priorities, and delivery as a hands-on full-stack engineer. Spearheaded delivery across 10+ production-grade product initiatives, strengthening engineering depth across architecture and execution quality.
+Before TokenFlow, I delivered custom full-stack applications for private clients in finance-oriented and digital asset-related environments. These projects often involved reengineering manual spreadsheet workflows into structured internal tools with dashboards, data views, authentication flows, protected pages, CRUD-style management, payment-related flows, and responsive interfaces.
+
+I handled projects from requirements to launch: planning features, designing the user experience, building the UI, implementing backend and API logic, testing real user flows, improving usability, and polishing the final product. This period strengthened my ability to take ownership, move independently, and deliver software that is practical, usable, and ready to present.
 
 ## Selected Work
 
