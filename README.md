@@ -26,37 +26,44 @@ I handled projects from requirements to launch: planning features, designing the
 
 ### [ Personal Website](https://github.com/lazarbukejlovic/personal-website)
 Architected premium engineering profile site integrating resume delivery, booking flow, and curated product showcase.
-## [Live Demo](https://personal-website-tau-sandy.vercel.app/)
+## [Live](https://personal-website-tau-sandy.vercel.app/)
+
+### [AtlasBrief — Travel-Readiness Intelligence Platform](https://github.com/lazarbukejlovic/atlasbrief)
+Production-ready travel-readiness and destination intelligence platform for evaluating destination fit, cost pressure, local rules, risk signals, saved monitoring, reports, and 30–90 day stay feasibility before booking.
+
+Built with Supabase Auth, database-backed saved briefs, destination watchlists, traveler profiles, Stripe Plus billing, webhook-based subscription sync, public destination dossiers, SEO metadata, and refresh-safe Vercel deployment.
+
+## [Live](https://atlasbrief.vercel.app)
 
 ## [GeoRisk](https://github.com/lazarbukejlovic/georisk-platform)
 A commercial-grade geopolitical intelligence platform for monitoring global conflicts, market exposure, historical context, and simulated humanitarian relief tracking.
 
 GeoRisk combines a cinematic global risk map, conflict severity indicators, market impact terminal, situation feed, historical archive, reports, settings, and a simulated relief tracker into one product-style interface. The project is built with mocked but API-ready data structures, designed to show how geopolitical risk can be connected with energy markets, currencies, crypto, and humanitarian impact.
-## [Live Demo](https://georisk-platform.vercel.app/)
+## [Live](https://georisk-platform.vercel.app/)
 
 ### [DevPath Hub](https://github.com/lazarbukejlovic/devpath-hub)
 Led collaborative full-stack product build for developer growth workflows, creator tooling, and structured educational delivery.
-## [Live Demo](https://devpath-hub.vercel.app/)
+## [Live](https://devpath-hub.vercel.app/)
 
 ### [ForgeDesk](https://github.com/lazarbukejlovic/forgedesk)
 Delivered premium ecommerce product with Stripe flows, protected admin systems, and structured product architecture.
-## [Live Demo](https://forgedesk-eosin.vercel.app/)  
+## [Live](https://forgedesk-eosin.vercel.app/)  
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echo-room)
 Designed social communication product with feed interaction, messaging workflows, and real-time discussion systems.
-## [Live Demo](https://echo-room-teal.vercel.app/)
+## [Live](https://echo-room-teal.vercel.app/)
 
 ### [Foundry Studios](https://github.com/lazarbukejlovic/foundrystudios)
 Built booking and payments product centered on scheduling logic, transaction flows, and polished service workflows. 
-## [Live Demo](https://foundrystudios.vercel.app/)
+## [Live](https://foundrystudios.vercel.app/)
 
 ### [ClientFlow](https://github.com/lazarbukejlovic/client-flow)
 Built dashboard-driven business operations platform for structured client workflows, invoicing systems, and operational visibility.  
-## [Live Demo](https://client-flow-tawny-eight.vercel.app/)
+## [Live](https://client-flow-tawny-eight.vercel.app/)
 
 ### [RoomPulse](https://github.com/lazarbukejlovic/room-pulse)
 Developed workflow execution platform focused on task visibility, structured operations, and responsive product UX.
-## [Live Demo](https://room-pulse-seven.vercel.app/)
+## [Live](https://room-pulse-seven.vercel.app/)
 
 ## Technical Focus
 
