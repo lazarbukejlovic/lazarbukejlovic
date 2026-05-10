@@ -37,20 +37,15 @@ I handled projects from requirements to launch: clarifying scope, planning featu
 ## Selected Work
 
 ### [ Personal Website](https://github.com/lazarbukejlovic/personal-website)
-Architected premium engineering profile site integrating resume delivery, booking flow, and curated product showcase.
+Professional portfolio and visual resume site presenting my full-stack engineering profile, selected projects, live demos, contact flow, and resume integration.
 ## [Live](https://personal-website-tau-sandy.vercel.app/)
 
 ### [AtlasBrief — Travel-Readiness Intelligence Platform](https://github.com/lazarbukejlovic/atlasbrief)
-Production-ready travel-readiness and destination intelligence platform for evaluating destination fit, cost pressure, local rules, risk signals, saved monitoring, reports, and 30–90 day stay feasibility before booking.
-
-Built with Supabase Auth, database-backed saved briefs, destination watchlists, traveler profiles, Stripe Plus billing, webhook-based subscription sync, public destination dossiers, SEO metadata, and refresh-safe Vercel deployment.
-
+Full-stack destination intelligence platform for trip readiness, long-stay planning, watchlists, alerts, reports, Stripe billing, and Supabase-backed user data.
 ## [Live](https://atlasbrief.vercel.app)
 
 ## [GeoRisk](https://github.com/lazarbukejlovic/georisk-platform)
-A commercial-grade geopolitical intelligence platform for monitoring global conflicts, market exposure, historical context, and simulated humanitarian relief tracking.
-
-GeoRisk combines a cinematic global risk map, conflict severity indicators, market impact terminal, situation feed, historical archive, reports, settings, and a simulated relief tracker into one product-style interface. The project is built with mocked but API-ready data structures, designed to show how geopolitical risk can be connected with energy markets, currencies, crypto, and humanitarian impact.
+Geopolitical risk intelligence dashboard for conflict monitoring, market impact analysis, historical context, and simulated humanitarian relief tracking.
 ## [Live](https://georisk-platform.vercel.app/)
 
 ### [DevPath Hub](https://github.com/lazarbukejlovic/devpath-hub)
@@ -58,23 +53,23 @@ Led collaborative full-stack product build for developer growth workflows, creat
 ## [Live](https://devpath-hub.vercel.app/)
 
 ### [ForgeDesk](https://github.com/lazarbukejlovic/forgedesk)
-Delivered premium ecommerce product with Stripe flows, protected admin systems, and structured product architecture.
+SaaS/workspace product with protected admin-style flows, product management UX, Stripe checkout positioning, and polished dashboard structure.
 ## [Live](https://forgedesk-eosin.vercel.app/)  
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echo-room)
-Designed social communication product with feed interaction, messaging workflows, and real-time discussion systems.
+Social/developer conversation platform concept with feed interactions, messaging flows, discovery, live activity sections, and responsive product UI.
 ## [Live](https://echo-room-teal.vercel.app/)
 
 ### [Foundry Studios](https://github.com/lazarbukejlovic/foundrystudios)
-Built booking and payments product centered on scheduling logic, transaction flows, and polished service workflows. 
+Booking and reservation platform centered on service scheduling, payment-oriented flows, customer-facing booking UX, and polished product presentation.
 ## [Live](https://foundrystudios.vercel.app/)
 
 ### [ClientFlow](https://github.com/lazarbukejlovic/client-flow)
-Built dashboard-driven business operations platform for structured client workflows, invoicing systems, and operational visibility.  
+Business operations dashboard for managing clients, projects, invoices, deadlines, workflow visibility, and structured client-side operations.
 ## [Live](https://client-flow-tawny-eight.vercel.app/)
 
 ### [RoomPulse](https://github.com/lazarbukejlovic/room-pulse)
-Developed workflow execution platform focused on task visibility, structured operations, and responsive product UX.
+Workflow and task management product built around boards, rooms, activity tracking, operational visibility, and SaaS-style product structure.
 ## [Live](https://room-pulse-seven.vercel.app/)
 
 ## Technical Focus
