@@ -1,12 +1,12 @@
-# About
+## About
 
-I build full-stack product systems where frontend execution, backend architecture, and delivery reliability matter.
+I build full-stack product systems where frontend quality, backend integration, and delivery reliability need to work together.
 
-My work spans React, TypeScript, Node.js, REST APIs, authentication, dashboards, database-backed features, payments, subscriptions, and responsive product interfaces. I have delivered 15+ client and portfolio projects across fintech, digital assets, travel intelligence, operational tooling, booking flows, and SaaS-style product experiences.
+My work sits across React, TypeScript, Node.js, REST APIs, authentication, database-backed workflows, payments, subscriptions, dashboards, and responsive product interfaces. I focus on building software that is not only visually polished, but also connected to real product logic, user state, data flow, and deployment requirements.
 
-I focus on turning product requirements into usable, production-ready software: structuring workflows, building clean interfaces, connecting frontend behavior to backend logic, testing real user flows, and preparing features for deployment.
+I have worked across fintech, digital assets, travel intelligence, operational tooling, booking flows, and SaaS-style product experiences, with a strong focus on turning unclear requirements into structured, usable, production-ready features.
 
-Known for ownership-driven execution, product thinking, clean implementation, and building practical web applications that feel polished, reliable, and ready for real users.
+Known for ownership-driven execution, product thinking, clean implementation, debugging real user flows, and preparing web applications for reliable production use.
 
 ## Experience
 
