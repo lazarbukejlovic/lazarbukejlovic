@@ -11,28 +11,28 @@ Known for ownership-driven execution, product thinking, clean implementation, de
 ## Experience
 
 ### TokenFlow — Full-Stack Engineer
+**Feb 2025 – Present**
 
-**February 2025 – Present**
-
-At TokenFlow, I build and improve client-facing product applications with a focus on reliable, maintainable, backend-connected web experiences. My work spans React, TypeScript, Node.js, REST APIs, dashboard interfaces, authenticated user flows, responsive layouts, and production-focused UI behavior.
-
-I contribute across the full implementation cycle: translating product and client requirements into scoped technical tasks, building frontend flows, connecting UI behavior to backend logic, validating user journeys, debugging issues, refactoring components, and preparing features for delivery. The work is fast-moving and ownership-driven, with an emphasis on clean execution, maintainability, and practical product value.
+- Built and maintained client-facing React/TypeScript applications across active product streams, owning work from handoff to deployment.
+- Delivered frontend-heavy product features including dashboards, forms, authenticated flows, REST API-driven views, route handling, responsive layouts, and loading/error/empty states.
+- Debugged frontend, API, authentication, and data-flow issues from active tickets and client feedback, communicating tradeoffs clearly and shipping scoped fixes without blocking delivery.
+- Implemented Jest coverage for critical authentication and payment-related flows, and used Docker-based local setup to improve development consistency across product work.
 
 ### ScaleRoad LLC — Full-Stack Software Engineer
+**Dec 2023 – Feb 2025**
 
-**December 2023 – February 2025**
-
-At ScaleRoad, I worked as a Full-Stack Software Engineer on product and operational web applications, focusing on frontend quality, backend-connected workflows, and reliable user-facing interfaces. I built dashboard-driven features for records, payments, subscriptions, operational status, and internal business workflows using React, TypeScript, Node.js, REST APIs, and PostgreSQL.
-
-My work included improving product UX, connecting frontend features with backend logic, handling validation and edge cases, building responsive layouts, and supporting release-ready implementation through QA, debugging, and polish. This role strengthened my ability to work across the full product cycle while keeping the final experience clear, usable, and production-ready.
+- Improved product UX and platform reliability through tailored frontend components, authenticated workflows, and API-connected product views.
+- Implemented operational dashboards for records, payments, subscriptions, status tracking, and internal business workflows using React, TypeScript, Node.js, REST APIs, and PostgreSQL.
+- Structured business processes into clearer product interfaces that were easier to track, review, and manage.
+- Managed delivery across scoping, UI build, backend integration, QA, bug fixing, production checks, and launch-ready implementation under shifting requirements.
 
 ### Private Clients — Freelance Full-Stack Engineer
+**Jun 2023 – Dec 2023**
 
-**June 2023 – December 2023**
-
-Before ScaleRoad, I delivered custom full-stack applications for private clients in finance-oriented and digital asset-related environments. These projects often involved turning manual spreadsheet workflows and scattered operational processes into structured internal tools with dashboards, data views, authentication flows, protected pages, CRUD-style management, payment-related flows, and responsive interfaces.
-
-I handled projects from requirements to launch: clarifying scope, planning features, designing the user experience, building the UI, implementing backend and API logic, testing real user flows, improving usability, and preparing the final product for client handoff. This period helped me build strong ownership, independence, and practical delivery habits across 15+ client and portfolio projects.
+- Delivered custom full-stack web applications for private clients in finance, digital asset, and business operations environments.
+- Built authenticated dashboards, CRUD data views, payment/subscription-related flows, responsive interfaces, saved-state workflows, and admin-style product screens.
+- Managed end-to-end delivery from scope clarification and implementation to backend integration, QA, deployment, client feedback, and final handoff.
+- Strengthened independent delivery, product judgment, debugging, client communication, and production-ready implementation.
 
 ## Selected Work
 
