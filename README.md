@@ -1,6 +1,8 @@
 ## About
 
-I build full-stack product systems where frontend quality, backend integration, and delivery reliability need to work together.
+I build full-stack product systems where the frontend,
+backend, auth, and billing all have to work together
+in production — not just in development.
 
 My work sits across React, TypeScript, Node.js, REST APIs, authentication, database-backed workflows, payments, subscriptions, dashboards, and responsive product interfaces. I focus on building software that is not only visually polished, but also connected to real product logic, user state, data flow, and deployment requirements.
 
