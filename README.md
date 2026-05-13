@@ -10,11 +10,7 @@ I have worked across fintech, digital assets, travel intelligence, operational t
 
 Known for ownership-driven execution, product thinking, clean implementation, and building practical web applications that feel polished, reliable, and ready for real users.
 
-## Links
-
-- ## [Email](mailto:lazarbukejlovic@icloud.com)
-- ## [LinkedIn](https://www.linkedin.com/in/lazar-bukejlovic)
-- ## [Website](https://personal-website-tau-sandy.vercel.app/)
+## Links: [Email](mailto:lazarbukejlovic@icloud.com) [Website](https://personal-website-tau-sandy.vercel.app/) [LinkedIn](https://www.linkedin.com/in/lazar-bukejlovic)
 
 ## Experience
 
