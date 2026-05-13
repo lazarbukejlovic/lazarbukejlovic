@@ -10,29 +10,33 @@ Known for ownership-driven execution, product thinking, clean implementation, de
 
 ## Experience
 
-### TokenFlow — Full-Stack Engineer
-**Feb 2025 – Present**
+**TokenFlow — Full-Stack Engineer**
+*February 2025 – Present*
 
-- Built and maintained client-facing React/TypeScript applications across active product streams, owning work from handoff to deployment.
-- Delivered frontend-heavy product features including dashboards, forms, authenticated flows, REST API-driven views, route handling, responsive layouts, and loading/error/empty states.
-- Debugged frontend, API, authentication, and data-flow issues from active tickets and client feedback, communicating tradeoffs clearly and shipping scoped fixes without blocking delivery.
-- Implemented Jest coverage for critical authentication and payment-related flows, and used Docker-based local setup to improve development consistency across product work.
+React/TypeScript product engineering across multiple active workstreams.
+Auth flows, dashboards, REST API integration, form-heavy screens,
+responsive layouts, loading/error/empty states — from design to deployment.
+Jest coverage on critical auth and payment flows. Docker-based local setup.
 
-### ScaleRoad LLC — Full-Stack Software Engineer
-**Dec 2023 – Feb 2025**
+---
 
-- Improved product UX and platform reliability through tailored frontend components, authenticated workflows, and API-connected product views.
-- Implemented operational dashboards for records, payments, subscriptions, status tracking, and internal business workflows using React, TypeScript, Node.js, REST APIs, and PostgreSQL.
-- Structured business processes into clearer product interfaces that were easier to track, review, and manage.
-- Managed delivery across scoping, UI build, backend integration, QA, bug fixing, production checks, and launch-ready implementation under shifting requirements.
+**ScaleRoad LLC — Full-Stack Software Engineer**
+*December 2023 – February 2025*
 
-### Private Clients — Freelance Full-Stack Engineer
-**Jun 2023 – Dec 2023**
+Built operational dashboards and internal tooling with React, TypeScript,
+Node.js, REST APIs, and PostgreSQL. Covered records, payments,
+subscriptions, and status tracking. Full delivery ownership: scoping,
+UI build, backend integration, QA, and launch.
 
-- Delivered custom full-stack web applications for private clients in finance, digital asset, and business operations environments.
-- Built authenticated dashboards, CRUD data views, payment/subscription-related flows, responsive interfaces, saved-state workflows, and admin-style product screens.
-- Managed end-to-end delivery from scope clarification and implementation to backend integration, QA, deployment, client feedback, and final handoff.
-- Strengthened independent delivery, product judgment, debugging, client communication, and production-ready implementation.
+---
+
+**Freelance Full-Stack Engineer — Private Clients**
+*June 2023 – December 2023*
+
+Delivered 15+ full-stack web applications for clients in finance,
+digital assets, and business operations. Auth dashboards, CRUD views,
+payment/subscription flows, admin screens, and responsive UI.
+End-to-end ownership from scope to client handoff.
 
 ## Selected Work
 
