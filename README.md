@@ -8,7 +8,7 @@ My work sits across React, TypeScript, Node.js, REST APIs, authentication, datab
 
 I have worked across fintech, digital assets, travel intelligence, operational tooling, booking flows, and SaaS-style product experiences, with a strong focus on turning unclear requirements into structured, usable, production-ready features.
 
-Known for ownership-driven execution, product thinking, clean implementation, debugging real user flows, and preparing web applications for reliable production use.
+Known for ownership-driven execution, product thinking, clean implementation, and building practical web applications that feel polished, reliable, and ready for real users.
 
 ## Experience
 
