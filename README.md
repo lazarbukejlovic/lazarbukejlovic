@@ -42,6 +42,31 @@ digital assets, and business operations. Auth dashboards, CRUD views,
 payment/subscription flows, admin screens, and responsive UI.
 End-to-end ownership from scope to client handoff.
 
+## Tech Stack
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Node.js 
+- Express
+- PostgreSQL
+- Supabase 
+- Prisma 
+- Tailwind CSS
+- Stripe API 
+- Auth0
+- Docker 
+- GitHub Actions 
+- Vercel 
+- Jest 
+- Cypress
+- Product Systems
+- UI / UX Thinking
+- Real-Time Interaction
+- Full-Stack Product Delivery
+
+
 ## Selected Work
 
 ### [ Personal Website](https://github.com/lazarbukejlovic/personal-website)
@@ -80,21 +105,6 @@ Business operations dashboard for managing clients, projects, invoices, deadline
 Workflow and task management product built around boards, rooms, activity tracking, operational visibility, and SaaS-style product structure.
 ## [Live](https://room-pulse-seven.vercel.app/)
 
-## Technical Focus
 
-- React
-- Next.js
-- TypeScript
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- Supabase
-- Tailwind CSS
-- Stripe
-- Product Systems
-- UI / UX Thinking
-- Real-Time Interaction
-- Full-Stack Product Delivery
 
 
