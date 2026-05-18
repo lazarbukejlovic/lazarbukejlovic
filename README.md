@@ -15,7 +15,7 @@ Known for ownership-driven execution, product thinking, clean implementation, an
 ## Experience
 
 **TokenFlow — Full-Stack Engineer**
-*February 2025 – Present*
+*Jaunar 2025 – Present*
 
 React/TypeScript product engineering across multiple active workstreams.
 Auth flows, dashboards, REST API integration, form-heavy screens,
@@ -25,7 +25,7 @@ Jest coverage on critical auth and payment flows. Docker-based local setup.
 ---
 
 **ScaleRoad LLC — Full-Stack Software Engineer**
-*December 2023 – February 2025*
+*December 2023 – Januar 2025*
 
 Built operational dashboards and internal tooling with React, TypeScript,
 Node.js, REST APIs, and PostgreSQL. Covered records, payments,
@@ -34,8 +34,8 @@ UI build, backend integration, QA, and launch.
 
 ---
 
-**Freelance Full-Stack Engineer — Private Clients**
-*June 2023 – December 2023*
+**Vertex Digital Studio — Full-Stack Engineer (Contract / Remote)**
+*Januar 2023 – December 2023*
 
 Delivered 15+ full-stack web applications for clients in finance,
 digital assets, and business operations. Auth dashboards, CRUD views,
