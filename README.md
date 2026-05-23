@@ -74,7 +74,7 @@ Professional portfolio and visual resume site presenting my full-stack engineeri
 ## [Live](https://personal-website-tau-sandy.vercel.app/)
 
 ### [MindPad AI — AI Productivity SaaS MVP](https://github.com/lazarbukejlovic/mindpad-ai)
-MindPad AI is a production-style AI productivity SaaS MVP built to turn scattered thoughts into structured execution.
+MindPad AI is a productivity tool designed to minimize the "mental overhead" of task management. Instead of requiring users to manually format, categorize, and prioritize tasks in a traditional Kanban board or list, the app functions as a "capture-and-transform" engine.
 ## [Live](https://mindpad-ai-five.vercel.app/)
 
 ### [AtlasBrief — Travel-Readiness Intelligence Platform](https://github.com/lazarbukejlovic/atlasbrief)
