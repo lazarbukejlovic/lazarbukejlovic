@@ -73,6 +73,10 @@ End-to-end ownership from scope to client handoff.
 Professional portfolio and visual resume site presenting my full-stack engineering profile, selected projects, live demos, contact flow, and resume integration.
 ## [Live](https://personal-website-tau-sandy.vercel.app/)
 
+### [MindPad AI — AI Productivity SaaS MVP](https://github.com/lazarbukejlovic/mindpad-ai)
+MindPad AI is a production-style AI productivity SaaS MVP built to turn scattered thoughts into structured execution.
+## [Live](https://github.com/lazarbukejlovic/mindpad-ai)
+
 ### [AtlasBrief — Travel-Readiness Intelligence Platform](https://github.com/lazarbukejlovic/atlasbrief)
 Full-stack destination intelligence platform for trip readiness, long-stay planning, watchlists, alerts, reports, Stripe billing, and Supabase-backed user data.
 ## [Live](https://atlasbrief.vercel.app)
@@ -85,13 +89,13 @@ Geopolitical risk intelligence dashboard for conflict monitoring, market impact 
 Led collaborative full-stack product build for developer growth workflows, creator tooling, and structured educational delivery.
 ## [Live](https://devpath-hub.vercel.app/)
 
-### [ForgeDesk](https://github.com/lazarbukejlovic/forgedesk)
-SaaS/workspace product with protected admin-style flows, product management UX, Stripe checkout positioning, and polished dashboard structure.
-## [Live](https://forgedesk-eosin.vercel.app/)  
-
 ### [EchoRoom](https://github.com/lazarbukejlovic/echo-room)
 Social/developer conversation platform concept with feed interactions, messaging flows, discovery, live activity sections, and responsive product UI.
 ## [Live](https://echo-room-teal.vercel.app/)
+
+### [ForgeDesk](https://github.com/lazarbukejlovic/forgedesk)
+SaaS/workspace product with protected admin-style flows, product management UX, Stripe checkout positioning, and polished dashboard structure.
+## [Live](https://forgedesk-eosin.vercel.app/)  
 
 ### [Foundry Studios](https://github.com/lazarbukejlovic/foundrystudios)
 Booking and reservation platform centered on service scheduling, payment-oriented flows, customer-facing booking UX, and polished product presentation.
