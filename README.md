@@ -75,7 +75,7 @@ Professional portfolio and visual resume site presenting my full-stack engineeri
 
 ### [MindPad AI — AI Productivity SaaS MVP](https://github.com/lazarbukejlovic/mindpad-ai)
 MindPad AI is a production-style AI productivity SaaS MVP built to turn scattered thoughts into structured execution.
-## [Live](https://github.com/lazarbukejlovic/mindpad-ai)
+## [Live](https://mindpad-ai-five.vercel.app/)
 
 ### [AtlasBrief — Travel-Readiness Intelligence Platform](https://github.com/lazarbukejlovic/atlasbrief)
 Full-stack destination intelligence platform for trip readiness, long-stay planning, watchlists, alerts, reports, Stripe billing, and Supabase-backed user data.
