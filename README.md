@@ -77,6 +77,10 @@ Professional portfolio and visual resume site presenting my full-stack engineeri
 MindPad AI is a productivity tool designed to minimize the "mental overhead" of task management. Instead of requiring users to manually format, categorize, and prioritize tasks in a traditional Kanban board or list, the app functions as a "capture-and-transform" engine.
 ## [Live](https://mindpad-ai-five.vercel.app/)
 
+### [Flowstate — AI Meeting-to-Delivery Workspace](https://github.com/lazarbukejlovic/flowstate)
+AI SaaS workspace that turns messy meeting transcripts into decisions, owners, risks, follow-ups, and execution boards. Built with Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Clerk, Prisma, and Vercel, with a cinematic product interface and interactive Flow assistant auth experience.
+## [Live](https://flowstate-zeta-henna.vercel.app/)
+
 ### [AtlasBrief — Travel-Readiness Intelligence Platform](https://github.com/lazarbukejlovic/atlasbrief)
 Full-stack destination intelligence platform for trip readiness, long-stay planning, watchlists, alerts, reports, Stripe billing, and Supabase-backed user data.
 ## [Live](https://atlasbrief.vercel.app)
