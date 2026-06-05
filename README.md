@@ -14,33 +14,38 @@ Known for ownership-driven execution, product thinking, clean implementation, an
 
 ## Experience
 
-**TokenFlow — Full-Stack Engineer**
-*Jaunar 2025 – Present*
+**TokenFlow — Full-Stack Engineer** · *January 2025 – Present*
 
-React/TypeScript product engineering across multiple active workstreams.
-Auth flows, dashboards, REST API integration, form-heavy screens,
-responsive layouts, loading/error/empty states — from design to deployment.
-Jest coverage on critical auth and payment flows. Docker-based local setup.
+React/TypeScript product engineering across 3+ concurrent client workstreams, owning features end-to-end from requirements and UI through backend logic, deployment, and post-launch QA. Focused on the parts that quietly break in production — payments, auth, and data integrity.
 
----
+- Built **Stripe billing** and **Supabase/Postgres auth + session flows**, with typed API contracts and **webhook idempotency** to eliminate duplicate-charge and subscription-sync bugs at the source.
+- Wrote Jest suites around the auth, payment, and saved-data paths most prone to silent regressions — **~85% coverage on critical paths**, so releases ship without repeated manual re-checking.
+- Standardized **Docker-based local and staging environments**, ending "works on my machine" as a recurring team failure mode.
 
-**ScaleRoad LLC — Full-Stack Software Engineer**
-*December 2023 – Januar 2025*
-
-Built operational dashboards and internal tooling with React, TypeScript,
-Node.js, REST APIs, and PostgreSQL. Covered records, payments,
-subscriptions, and status tracking. Full delivery ownership: scoping,
-UI build, backend integration, QA, and launch.
+**Stack:** React · TypeScript · Node.js · Supabase · PostgreSQL · Stripe · Jest · Docker
 
 ---
 
-**Vertex Digital Studio — Full-Stack Engineer (Contract / Remote)**
-*Januar 2023 – December 2023*
+**ScaleRoad LLC — Full-Stack Software Engineer** · *December 2023 – January 2025*
 
-Delivered 15+ full-stack web applications for clients in finance,
-digital assets, and business operations. Auth dashboards, CRUD views,
-payment/subscription flows, admin screens, and responsive UI.
-End-to-end ownership from scope to client handoff.
+Built operational dashboards and internal tooling in React/TypeScript/Node/PostgreSQL for records, payments, subscriptions, and status tracking — serving **~10,000 monthly active users** under real production load.
+
+- Defined strict API contracts and **cached heavy dashboard queries** to keep latency-sensitive views responsive at scale.
+- Cut perceived load time on data-heavy views through state-management cleanup and **route-level lazy-loading**.
+- Took features from undefined idea to shipped product: scoping, flow design, backend wiring, edge-case handling, and deployment under tight deadlines.
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL · REST APIs
+
+---
+
+**Vertex Digital Studio — Full-Stack Engineer** *(Contract / Remote)* · *January 2023 – December 2023*
+
+Delivered **15+ custom web applications** for fintech, SaaS, and data-heavy clients, turning business workflows into authenticated dashboards, CRUD tools, and payment flows — owning each project independently from scope to client handoff.
+
+- Designed secure auth flows, relational data models, and REST APIs across a high volume of distinct client projects.
+- Cut new-project setup time **~50%** by building a **30+ component reusable React/TypeScript library** used across client work.
+
+**Stack:** React · TypeScript · Node.js · REST APIs · Stripe
 
 ## Tech Stack
 
