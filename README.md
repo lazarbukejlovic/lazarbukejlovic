@@ -1,14 +1,10 @@
-## About
+## Hi, I'm Lazar
 
-I build full-stack product systems where the frontend,
-backend, auth, and billing all have to work together
-in production — not just in development.
+Full-Stack Engineer with 3+ years building production React/TypeScript web apps for fintech, SaaS, and data-heavy products — including **AI-powered SaaS built end-to-end** on Next.js and the Anthropic API.
 
-My work sits across React, TypeScript, Node.js, REST APIs, authentication, database-backed workflows, payments, subscriptions, dashboards, and responsive product interfaces. I focus on building software that is not only visually polished, but also connected to real product logic, user state, data flow, and deployment requirements.
+I take features from unclear requirements all the way through UI, backend logic, auth, Stripe billing, deployment, and QA — without leaving the hard parts to someone else. Known for ownership-driven execution, product thinking, and clean implementation that ships web applications which feel polished, reliable, and ready for real users.
 
-I have worked across fintech, digital assets, travel intelligence, operational tooling, booking flows, and SaaS-style product experiences, with a strong focus on turning unclear requirements into structured, usable, production-ready features.
-
-Known for ownership-driven execution, product thinking, clean implementation, and building practical web applications that feel polished, reliable, and ready for real users.
+Currently building at **TokenFlow**.
 
 ## Links: [Email](mailto:lazarbukejlovic@icloud.com) [Website](https://personal-website-tau-sandy.vercel.app/) [LinkedIn](https://www.linkedin.com/in/lazar-bukejlovic)
 
