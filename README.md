@@ -1,6 +1,6 @@
 ## Hi, I'm Lazar
 
-Full-Stack Engineer with 3+ years building production React/TypeScript web apps for fintech, SaaS, and data-heavy products — including **AI-powered SaaS built end-to-end** on Next.js and the Anthropic API.
+Full-Stack Engineer with 4 years building production React/TypeScript web apps for fintech, SaaS, and data-heavy products — including **AI-powered SaaS built end-to-end** on Next.js and the Anthropic API.
 
 I take features from unclear requirements all the way through UI, backend logic, auth, Stripe billing, deployment, and QA — without leaving the hard parts to someone else. Known for ownership-driven execution, product thinking, and clean implementation that ships web applications which feel polished, reliable, and ready for real users.
 
